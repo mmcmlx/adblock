@@ -1,0 +1,17 @@
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 static.media.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 static.hotjar.com
+0.0.0.0 a.mouseflow.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 youtube.cleverads.vn 
+0.0.0.0 ads.tiktok.com
+0.0.0.0 global.adserver.yahoo.com
+0.0.0.0 ads.yap.yahoo.com
+0.0.0.0 metrics1.data.hicloud.com
